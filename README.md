@@ -13,6 +13,7 @@ Python: Django, Flask, FastAPI
 C++: WinForms, Sockets
 
 JavaScript: React
+
 ---
 ## About me
 Right now, I am trying to understand and learn assembly language.
